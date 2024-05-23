@@ -172,8 +172,9 @@ h6 {
 #header .logo img {
   
  
+  max-height: 100px; /* Set maximum height for the logo */
+  width: auto; /* Allow the width to adjust automatically */
 
- height: 100px;
 
 }
 
